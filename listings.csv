@@ -1,0 +1,121 @@
+id,address,pincode,bhk,area_sqft,property_type,floor,age_years,amenities,predicted_price,price_low,price_high
+0,"5, New Township",560038,1,564,Apartment,2,1,Parking available; 24x7 water supply; Near metro/transit,5019000,4730869,5307131
+1,"250, Rajendra Sector",560038,2,933,Independent House,0,1,Furnished; Near school; 24x7 water supply,7980000,7332514,8627486
+2,"27, Vivek Colony",560038,4,2004,Apartment,7,10,24x7 water supply; Power backup; Near hospital,15525000,14459372,16590628
+3,"101, Green Park Sector",560038,4,2116,Apartment,9,6,Power backup; Near metro/transit,18690000,17512418,19867582
+4,"296, Ashoka Vihar",560038,3,1377,Independent House,0,8,Power backup; Furnished; Near hospital; Near school; Near park,10985000,10138189,11831811
+5,"19, Green Park Extension",560038,2,891,Apartment,4,0,Gated community; Furnished; Corner plot,7870000,7384412,8355588
+6,"85, Rajendra Sector",560038,1,571,Villa,0,0,Parking available; Near park; 24x7 water supply; Power backup,5400000,4973114,5826886
+7,"67, Sunrise Enclave",560038,2,1008,Villa,0,0,Near metro/transit; Furnished; Lift access; Near hospital,10196000,9290944,11101056
+8,"304, Silver Heights",560038,4,1649,Independent House,0,7,Parking available; Near park; Near hospital,13290000,12520545,14059455
+9,"70, Silver Vihar",560038,4,2140,Apartment,12,1,Ready to move; Corner plot; Near school; Lift access; Near hospital,18479000,16893691,20064309
+10,"140, Silver Heights",560038,1,547,Villa,0,10,Parking available; Near school; Near hospital; Power backup,4723000,4435750,5010250
+11,"259, Shanti Nagar",560038,4,1617,Villa,0,8,Furnished; Near metro/transit; Near park,15293000,14162193,16423807
+12,"42, Model Gardens",560038,1,589,Apartment,7,1,Near school; Parking available; Gated community,5241000,4931516,5550484
+13,"23, Silver Nagar",560038,1,600,Apartment,7,12,Near school; Power backup,4550000,4210886,4889114
+14,"216, New Township",560038,1,539,Independent House,0,7,Parking available; Ready to move,4344000,3995077,4692923
+15,"114, Silver Colony",560038,4,2228,Villa,0,11,Near hospital; Near metro/transit,20522000,19389950,21654050
+16,"368, Rajendra Vihar",560038,4,1627,Apartment,7,6,Near school; Power backup; Furnished; Parking available; Near hospital,13140000,12016546,14263454
+17,"246, Lake View Heights",560038,1,545,Independent House,0,2,Near metro/transit; Parking available; Near hospital,4975000,4541046,5408954
+18,"104, Rajendra Heights",560038,2,793,Apartment,2,2,24x7 water supply; Near park; Lift access; Furnished; Near school,6469000,5966405,6971595
+19,"243, Shanti Heights",560038,3,1453,Villa,0,14,Power backup; Gated community; Near hospital; Corner plot; Parking available,12666000,11872701,13459299
+20,"56, Silver Extension",560038,4,1915,Apartment,7,8,Near hospital; Gated community,15938000,14656994,17219006
+21,"43, Ashoka Heights",560038,4,2005,Apartment,3,9,Parking available; Near school; Corner plot,15302000,14377258,16226742
+22,"202, Model Gardens",560038,1,505,Independent House,0,6,Gated community; Ready to move; 24x7 water supply; Near park,4319000,4045584,4592416
+23,"334, Sunrise Enclave",560038,2,802,Independent House,0,12,Furnished; Power backup; Near metro/transit; Lift access; Gated community,6991000,6420787,7561213
+24,"337, Model Township",560038,4,2122,Villa,0,14,Parking available; Near school; Ready to move; Near hospital; Lift access,17626000,16409542,18842458
+25,"61, Model Extension",560038,2,798,Apartment,9,2,Corner plot; Power backup; Parking available; Furnished; Near metro/transit,7311000,6721696,7900304
+26,"270, Vivek Enclave",560038,1,590,Apartment,5,3,Near school; Corner plot; 24x7 water supply; Near hospital; Near metro/transit,5240000,4795758,5684242
+27,"312, Sunrise Township",560038,1,482,Apartment,2,13,Near school; Furnished; Ready to move; Power backup,3496000,3303714,3688286
+28,"164, Sunrise Residency",560038,3,1349,Apartment,3,5,Near hospital; Corner plot; Near park,10739000,9944224,11533776
+29,"315, Model Nagar",560038,4,1849,Apartment,1,5,Furnished; Near metro/transit,15754000,14525907,16982093
+30,"62, Model Gardens",560038,4,2097,Apartment,9,7,Parking available; Near school,16970000,15524437,18415563
+31,"267, Rajendra Colony",560038,1,599,Apartment,4,8,Lift access; Furnished; Power backup,4650000,4399506,4900494
+32,"238, Green Park Gardens",560038,1,581,Apartment,9,3,Corner plot; Near park,4893000,4602938,5183062
+33,"28, Lake View Colony",560038,4,1751,Apartment,10,9,Near school; Parking available,13968000,12757059,15178941
+34,"194, Rajendra Residency",560038,2,791,Villa,0,12,Furnished; 24x7 water supply; Near park,6700000,6177079,7222921
+35,"258, Sunrise Extension",560038,1,589,Apartment,11,7,Lift access; Furnished; Power backup; 24x7 water supply; Near metro/transit,5183000,4832964,5533036
+36,"122, Ashoka Vihar",560038,2,1002,Apartment,10,8,Power backup; Gated community,8488000,7731554,9244446
+37,"352, Rajendra Heights",560038,4,1654,Independent House,0,10,Parking available; Lift access; Near school; Near park; Gated community,13602000,12481605,14722395
+38,"82, New Heights",560038,4,2173,Apartment,9,14,Parking available; Near school,16334000,15109922,17558078
+39,"120, Shanti Township",560038,3,1378,Independent House,0,2,Ready to move; Lift access; Parking available; Furnished,11673000,10926845,12419155
+0,"32, Ashoka Enclave",411001,2,773,Villa,0,2,24x7 water supply; Power backup; Near hospital; Near school,7810000,7252669,8367331
+1,"271, New Heights",411001,1,468,Villa,0,7,Near school; Near hospital; Corner plot,4519000,4287160,4750840
+2,"199, Rajendra Sector",411001,4,1926,Villa,0,7,Near school; Ready to move; Near hospital; Parking available; Power backup,18598000,17634861,19561139
+3,"90, Green Park Sector",411001,2,823,Independent House,0,1,Near park; Ready to move; Parking available; 24x7 water supply; Lift access,7653000,7087138,8218862
+4,"99, Shanti Nagar",411001,4,2149,Independent House,0,6,Lift access; Gated community; Near school; Corner plot; Parking available,19983000,18850242,21115758
+5,"330, Silver Township",411001,2,861,Villa,0,4,Corner plot; Furnished; 24x7 water supply; Parking available; Ready to move,8545000,7823503,9266497
+6,"220, Sunrise Sector",411001,4,1861,Independent House,0,4,Lift access; Near school; Power backup; 24x7 water supply,16806000,15507108,18104892
+7,"219, Shanti Residency",411001,3,1491,Apartment,9,7,Near school; Gated community; Corner plot; 24x7 water supply,13784000,12840465,14727535
+8,"161, Silver Colony",411001,2,798,Independent House,0,6,Lift access; Parking available,7064000,6598275,7529725
+9,"279, Sunrise Gardens",411001,1,585,Apartment,6,9,Gated community; Corner plot; Furnished; Ready to move,5210000,4841017,5578983
+10,"351, Green Park Residency",411001,2,898,Apartment,6,4,Ready to move; Near school,7997000,7468316,8525684
+11,"36, Sunrise Vihar",411001,3,1393,Apartment,7,12,Near school; Gated community,12106000,11025614,13186386
+12,"197, Lake View Residency",411001,4,2226,Apartment,4,1,Ready to move; Furnished; Lift access,20181000,18572735,21789265
+13,"11, Shanti Residency",411001,3,1192,Apartment,5,3,Power backup; Near school; 24x7 water supply; Near hospital; Near metro/transit,11510000,10863182,12156818
+14,"293, Sunrise Vihar",411001,4,1840,Villa,0,6,Ready to move; Gated community,18755000,17478443,20031557
+15,"380, Vivek Township",411001,1,576,Apartment,4,2,Lift access; Parking available; Power backup,5171000,4827892,5514108
+16,"386, Rajendra Nagar",411001,2,1026,Independent House,0,5,Near park; Power backup; Near metro/transit; Parking available; Near hospital,9907000,9353237,10460763
+17,"78, Ashoka Gardens",411001,3,1502,Apartment,12,13,Near school; 24x7 water supply; Near hospital; Gated community,13161000,12015859,14306141
+18,"69, Green Park Extension",411001,4,1716,Villa,0,14,Near school; Parking available; Furnished; Near hospital,15496000,14689889,16302111
+19,"307, Ashoka Nagar",411001,2,819,Independent House,0,9,Near metro/transit; 24x7 water supply; Parking available,7616000,7162059,8069941
+20,"208, Lake View Gardens",411001,2,992,Independent House,0,2,Ready to move; Corner plot; 24x7 water supply,9136000,8484119,9787881
+21,"387, Ashoka Extension",411001,1,554,Villa,0,4,Near park; Power backup,5498000,5069573,5926427
+22,"126, Ashoka Colony",411001,3,1355,Apartment,6,7,Near school; Power backup; Ready to move; 24x7 water supply,11703000,10780604,12625396
+23,"279, Green Park Extension",411001,1,501,Villa,0,9,Near school; Near hospital,4748000,4456024,5039976
+24,"216, Silver Nagar",411001,4,1698,Independent House,0,14,Near school; Lift access; Power backup; Corner plot; Near hospital,13815000,12899611,14730389
+25,"307, Sunrise Colony",411001,2,858,Independent House,0,13,Gated community; Furnished; Parking available; Near school; Power backup,7441000,6817495,8064505
+26,"333, Vivek Township",411001,2,1008,Villa,0,8,Gated community; Lift access; Corner plot; Near school; Near park,10094000,9562699,10625301
+27,"18, Lake View Enclave",411001,4,2094,Villa,0,0,Near school; Ready to move; Furnished; Power backup,21531000,19829048,23232952
+28,"10, Green Park Township",411001,4,1875,Villa,0,5,Lift access; Parking available; Gated community,19279000,17778294,20779706
+29,"83, Vivek Heights",411001,2,1012,Apartment,10,10,Gated community; Near park; Ready to move; Lift access; Furnished,9139000,8408460,9869540
+30,"317, Shanti Extension",411001,1,526,Apartment,10,5,Gated community; Near metro/transit; Parking available; Furnished,5361000,4901815,5820185
+31,"307, Model Vihar",411001,3,1197,Villa,0,8,Parking available; Near school; Near hospital,11452000,10657211,12246789
+32,"39, Rajendra Vihar",411001,4,2183,Apartment,1,12,Near metro/transit; Gated community; Near school; Parking available; Furnished,19830000,18251795,21408205
+33,"344, Shanti Vihar",411001,4,2170,Independent House,0,6,Near school; Near park,19208000,17536134,20879866
+34,"31, Model Heights",411001,4,1950,Apartment,12,0,Furnished; Gated community; Near school,19353000,18108438,20597562
+35,"40, Green Park Gardens",411001,4,1990,Apartment,8,12,Furnished; Lift access,16512000,15208668,17815332
+36,"132, Rajendra Colony",411001,3,1421,Independent House,0,0,Near hospital; Furnished; Near park; Near school; Parking available,13340000,12566335,14113665
+37,"233, Ashoka Sector",411001,1,485,Apartment,11,7,Gated community; Near school; 24x7 water supply,4510000,4201680,4818320
+38,"391, Model Sector",411001,4,2055,Villa,0,12,Near hospital; Near school,18925000,17846979,20003021
+39,"99, Silver Enclave",411001,3,1139,Apartment,12,8,Furnished; Near park,9980000,9287081,10672919
+0,"219, Ashoka Sector",560102,1,580,Villa,0,4,Lift access; Furnished; Parking available; Near school,3455000,3190921,3719079
+1,"191, Lake View Heights",560102,3,1468,Independent House,0,2,Near park; Furnished,8115000,7612350,8617650
+2,"136, Vivek Vihar",560102,4,1847,Villa,0,14,Near school; Near hospital; Power backup,10012000,9314343,10709657
+3,"121, Model Enclave",560102,4,2119,Apartment,8,1,Ready to move; Near metro/transit; Lift access; Parking available; Near park,12715000,11887771,13542229
+4,"130, Silver Colony",560102,2,982,Apartment,9,12,Near park; Parking available; Furnished; Corner plot; Power backup,4923000,4538849,5307151
+5,"334, Ashoka Residency",560102,2,771,Independent House,0,6,Gated community; Corner plot; Near park; Near metro/transit; Near hospital,4635000,4299183,4970817
+6,"252, Lake View Residency",560102,2,860,Apartment,10,4,Furnished; Gated community,4939000,4682514,5195486
+7,"169, Vivek Township",560102,4,2218,Independent House,0,13,Gated community; Furnished; Parking available; Ready to move; Near park,11547000,10652161,12441839
+8,"61, Shanti Vihar",560102,2,904,Apartment,9,13,Gated community; Near school,4726000,4472776,4979224
+9,"65, New Residency",560102,3,1367,Independent House,0,14,Near school; Parking available,6676000,6272964,7079036
+10,"227, Shanti Residency",560102,4,1927,Villa,0,9,Gated community; Near school; Near hospital; Ready to move,11480000,10791974,12168026
+11,"303, Ashoka Residency",560102,1,528,Apartment,8,10,Near school; Near hospital; Near park,2686000,2513989,2858011
+12,"387, New Sector",560102,3,1316,Villa,0,14,Power backup; Corner plot; Ready to move; 24x7 water supply,7134000,6514984,7753016
+13,"262, Model Residency",560102,2,782,Villa,0,7,Ready to move; Near park; Near metro/transit; Parking available; Lift access,4869000,4604500,5133500
+14,"370, Green Park Colony",560102,4,2083,Apartment,3,3,Near hospital; Near park; Lift access; 24x7 water supply,11045000,10359981,11730019
+15,"133, Sunrise Vihar",560102,1,624,Villa,0,11,Near park; Power backup; Corner plot; Furnished; Near metro/transit,3751000,3514687,3987313
+16,"223, Rajendra Enclave",560102,2,834,Independent House,0,3,Power backup; Near park,4566000,4322482,4809518
+17,"283, Green Park Colony",560102,1,532,Independent House,0,7,24x7 water supply; Furnished,2798000,2561022,3034978
+18,"316, Shanti Colony",560102,3,1341,Apartment,3,9,Corner plot; Near school,6679000,6154227,7203773
+19,"49, Model Colony",560102,4,2077,Apartment,6,11,Ready to move; Near school; Power backup; Near park,10322000,9467623,11176377
+20,"184, Vivek Gardens",560102,1,622,Villa,0,0,Parking available; Near school; Furnished; Ready to move,3839000,3609739,4068261
+21,"211, New Colony",560102,3,1101,Apartment,10,1,Corner plot; Furnished; Near metro/transit,6677000,6233393,7120607
+22,"49, Shanti Nagar",560102,3,1198,Independent House,0,7,Corner plot; Furnished; Near hospital,6301000,5853602,6748398
+23,"216, Silver Heights",560102,2,949,Villa,0,3,Furnished; Gated community; Power backup; Near school; Lift access,5959000,5444911,6473089
+24,"191, Model Colony",560102,4,2189,Independent House,0,11,Ready to move; Near metro/transit; Near park; Corner plot,11983000,11376099,12589901
+25,"52, Shanti Residency",560102,2,923,Apartment,12,7,Ready to move; Gated community; Furnished; 24x7 water supply; Lift access,5152000,4707769,5596231
+26,"338, New Colony",560102,4,1647,Apartment,5,12,Furnished; Corner plot; Near hospital; Parking available,8044000,7509500,8578500
+27,"160, Green Park Township",560102,2,793,Villa,0,5,Parking available; Power backup; 24x7 water supply; Furnished; Corner plot,4682000,4400342,4963658
+28,"123, Model Sector",560102,2,808,Apartment,8,11,Lift access; Ready to move,4068000,3714156,4421844
+29,"345, Silver Nagar",560102,4,1701,Apartment,9,11,Power backup; Near school; Furnished,8618000,7946999,9289001
+30,"249, Green Park Sector",560102,3,1519,Apartment,3,8,Gated community; Power backup; Near park; 24x7 water supply,8055000,7553957,8556043
+31,"67, Sunrise Residency",560102,4,1824,Apartment,9,4,Gated community; Lift access; Power backup,10416000,9622138,11209862
+32,"49, Shanti Sector",560102,1,573,Independent House,0,12,24x7 water supply; Parking available; Near school; Near park,2860000,2636218,3083782
+33,"28, Shanti Colony",560102,2,768,Apartment,3,6,Near park; Parking available; Near metro/transit,4278000,3948953,4607047
+34,"329, Ashoka Sector",560102,1,597,Apartment,12,1,Power backup; Corner plot; Near school,3364000,3091202,3636798
+35,"124, Vivek Gardens",560102,4,2093,Apartment,10,6,Near metro/transit; Parking available; Near school; Furnished; 24x7 water supply,12132000,11486739,12777261
+36,"167, Silver Residency",560102,1,451,Apartment,4,12,Parking available; Near park; Gated community; Near hospital,2309000,2168113,2449887
+37,"21, Silver Extension",560102,2,816,Villa,0,0,Near park; Furnished; Parking available; Lift access,5036000,4723268,5348732
+38,"363, Model Township",560102,1,580,Apartment,10,3,Lift access; Near park,3206000,2955830,3456170
+39,"290, Model Township",560102,1,468,Villa,0,1,Ready to move; 24x7 water supply; Furnished; Near metro/transit,3064000,2898739,3229261

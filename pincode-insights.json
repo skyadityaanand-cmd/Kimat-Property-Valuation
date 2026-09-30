@@ -1,0 +1,93 @@
+{
+  "dataset_type": "derived_synthetic_demo_insights",
+  "note": "Calculated from the synthetic listing records in listings.json; not independent market research.",
+  "pincodes": [
+    {
+      "pincode": "560038",
+      "locality": "Vivek district",
+      "inventory_count": 40,
+      "average_price_lakh": 102.63,
+      "price_per_sqft": 8408.6,
+      "confidence": 92,
+      "demand_label": "Steady demand",
+      "price_bands": [
+        {
+          "label": "Entry",
+          "min_lakh": 35,
+          "max_lakh": 64.7,
+          "count": 13
+        },
+        {
+          "label": "Mid-market",
+          "min_lakh": 64.7,
+          "max_lakh": 132.9,
+          "count": 13
+        },
+        {
+          "label": "Premium",
+          "min_lakh": 132.9,
+          "max_lakh": 205.2,
+          "count": 13
+        }
+      ]
+    },
+    {
+      "pincode": "411001",
+      "locality": "Green Park district",
+      "inventory_count": 40,
+      "average_price_lakh": 120.68,
+      "price_per_sqft": 9285.7,
+      "confidence": 85,
+      "demand_label": "Steady demand",
+      "price_bands": [
+        {
+          "label": "Entry",
+          "min_lakh": 45.1,
+          "max_lakh": 85.5,
+          "count": 14
+        },
+        {
+          "label": "Mid-market",
+          "min_lakh": 85.5,
+          "max_lakh": 138.2,
+          "count": 13
+        },
+        {
+          "label": "Premium",
+          "min_lakh": 138.2,
+          "max_lakh": 215.3,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "pincode": "560102",
+      "locality": "Shanti district",
+      "inventory_count": 40,
+      "average_price_lakh": 64.28,
+      "price_per_sqft": 5496.3,
+      "confidence": 86,
+      "demand_label": "Steady demand",
+      "price_bands": [
+        {
+          "label": "Entry",
+          "min_lakh": 23.1,
+          "max_lakh": 46.4,
+          "count": 13
+        },
+        {
+          "label": "Mid-market",
+          "min_lakh": 46.4,
+          "max_lakh": 71.3,
+          "count": 12
+        },
+        {
+          "label": "Premium",
+          "min_lakh": 71.3,
+          "max_lakh": 127.2,
+          "count": 14
+        }
+      ]
+    }
+  ]
+}

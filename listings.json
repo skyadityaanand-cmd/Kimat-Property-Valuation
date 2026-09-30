@@ -1,0 +1,2236 @@
+{
+  "dataset_type": "synthetic_demo_data",
+  "source": "Deterministic generator mirrored from artifacts/api-server/src/routes/valuation.ts",
+  "records_per_pincode": 40,
+  "pincodes": [
+    "560038",
+    "411001",
+    "560102"
+  ],
+  "listings": [
+    {
+      "id": 0,
+      "address": "5, New Township",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 564,
+      "property_type": "Apartment",
+      "floor": 2,
+      "age_years": 1,
+      "amenities": [
+        "Parking available",
+        "24x7 water supply",
+        "Near metro/transit"
+      ],
+      "predicted_price": 5019000,
+      "price_low": 4730869,
+      "price_high": 5307131
+    },
+    {
+      "id": 1,
+      "address": "250, Rajendra Sector",
+      "pincode": "560038",
+      "bhk": 2,
+      "area_sqft": 933,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 1,
+      "amenities": [
+        "Furnished",
+        "Near school",
+        "24x7 water supply"
+      ],
+      "predicted_price": 7980000,
+      "price_low": 7332514,
+      "price_high": 8627486
+    },
+    {
+      "id": 2,
+      "address": "27, Vivek Colony",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 2004,
+      "property_type": "Apartment",
+      "floor": 7,
+      "age_years": 10,
+      "amenities": [
+        "24x7 water supply",
+        "Power backup",
+        "Near hospital"
+      ],
+      "predicted_price": 15525000,
+      "price_low": 14459372,
+      "price_high": 16590628
+    },
+    {
+      "id": 3,
+      "address": "101, Green Park Sector",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 2116,
+      "property_type": "Apartment",
+      "floor": 9,
+      "age_years": 6,
+      "amenities": [
+        "Power backup",
+        "Near metro/transit"
+      ],
+      "predicted_price": 18690000,
+      "price_low": 17512418,
+      "price_high": 19867582
+    },
+    {
+      "id": 4,
+      "address": "296, Ashoka Vihar",
+      "pincode": "560038",
+      "bhk": 3,
+      "area_sqft": 1377,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 8,
+      "amenities": [
+        "Power backup",
+        "Furnished",
+        "Near hospital",
+        "Near school",
+        "Near park"
+      ],
+      "predicted_price": 10985000,
+      "price_low": 10138189,
+      "price_high": 11831811
+    },
+    {
+      "id": 5,
+      "address": "19, Green Park Extension",
+      "pincode": "560038",
+      "bhk": 2,
+      "area_sqft": 891,
+      "property_type": "Apartment",
+      "floor": 4,
+      "age_years": 0,
+      "amenities": [
+        "Gated community",
+        "Furnished",
+        "Corner plot"
+      ],
+      "predicted_price": 7870000,
+      "price_low": 7384412,
+      "price_high": 8355588
+    },
+    {
+      "id": 6,
+      "address": "85, Rajendra Sector",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 571,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 0,
+      "amenities": [
+        "Parking available",
+        "Near park",
+        "24x7 water supply",
+        "Power backup"
+      ],
+      "predicted_price": 5400000,
+      "price_low": 4973114,
+      "price_high": 5826886
+    },
+    {
+      "id": 7,
+      "address": "67, Sunrise Enclave",
+      "pincode": "560038",
+      "bhk": 2,
+      "area_sqft": 1008,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 0,
+      "amenities": [
+        "Near metro/transit",
+        "Furnished",
+        "Lift access",
+        "Near hospital"
+      ],
+      "predicted_price": 10196000,
+      "price_low": 9290944,
+      "price_high": 11101056
+    },
+    {
+      "id": 8,
+      "address": "304, Silver Heights",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 1649,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 7,
+      "amenities": [
+        "Parking available",
+        "Near park",
+        "Near hospital"
+      ],
+      "predicted_price": 13290000,
+      "price_low": 12520545,
+      "price_high": 14059455
+    },
+    {
+      "id": 9,
+      "address": "70, Silver Vihar",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 2140,
+      "property_type": "Apartment",
+      "floor": 12,
+      "age_years": 1,
+      "amenities": [
+        "Ready to move",
+        "Corner plot",
+        "Near school",
+        "Lift access",
+        "Near hospital"
+      ],
+      "predicted_price": 18479000,
+      "price_low": 16893691,
+      "price_high": 20064309
+    },
+    {
+      "id": 10,
+      "address": "140, Silver Heights",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 547,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 10,
+      "amenities": [
+        "Parking available",
+        "Near school",
+        "Near hospital",
+        "Power backup"
+      ],
+      "predicted_price": 4723000,
+      "price_low": 4435750,
+      "price_high": 5010250
+    },
+    {
+      "id": 11,
+      "address": "259, Shanti Nagar",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 1617,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 8,
+      "amenities": [
+        "Furnished",
+        "Near metro/transit",
+        "Near park"
+      ],
+      "predicted_price": 15293000,
+      "price_low": 14162193,
+      "price_high": 16423807
+    },
+    {
+      "id": 12,
+      "address": "42, Model Gardens",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 589,
+      "property_type": "Apartment",
+      "floor": 7,
+      "age_years": 1,
+      "amenities": [
+        "Near school",
+        "Parking available",
+        "Gated community"
+      ],
+      "predicted_price": 5241000,
+      "price_low": 4931516,
+      "price_high": 5550484
+    },
+    {
+      "id": 13,
+      "address": "23, Silver Nagar",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 600,
+      "property_type": "Apartment",
+      "floor": 7,
+      "age_years": 12,
+      "amenities": [
+        "Near school",
+        "Power backup"
+      ],
+      "predicted_price": 4550000,
+      "price_low": 4210886,
+      "price_high": 4889114
+    },
+    {
+      "id": 14,
+      "address": "216, New Township",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 539,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 7,
+      "amenities": [
+        "Parking available",
+        "Ready to move"
+      ],
+      "predicted_price": 4344000,
+      "price_low": 3995077,
+      "price_high": 4692923
+    },
+    {
+      "id": 15,
+      "address": "114, Silver Colony",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 2228,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 11,
+      "amenities": [
+        "Near hospital",
+        "Near metro/transit"
+      ],
+      "predicted_price": 20522000,
+      "price_low": 19389950,
+      "price_high": 21654050
+    },
+    {
+      "id": 16,
+      "address": "368, Rajendra Vihar",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 1627,
+      "property_type": "Apartment",
+      "floor": 7,
+      "age_years": 6,
+      "amenities": [
+        "Near school",
+        "Power backup",
+        "Furnished",
+        "Parking available",
+        "Near hospital"
+      ],
+      "predicted_price": 13140000,
+      "price_low": 12016546,
+      "price_high": 14263454
+    },
+    {
+      "id": 17,
+      "address": "246, Lake View Heights",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 545,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 2,
+      "amenities": [
+        "Near metro/transit",
+        "Parking available",
+        "Near hospital"
+      ],
+      "predicted_price": 4975000,
+      "price_low": 4541046,
+      "price_high": 5408954
+    },
+    {
+      "id": 18,
+      "address": "104, Rajendra Heights",
+      "pincode": "560038",
+      "bhk": 2,
+      "area_sqft": 793,
+      "property_type": "Apartment",
+      "floor": 2,
+      "age_years": 2,
+      "amenities": [
+        "24x7 water supply",
+        "Near park",
+        "Lift access",
+        "Furnished",
+        "Near school"
+      ],
+      "predicted_price": 6469000,
+      "price_low": 5966405,
+      "price_high": 6971595
+    },
+    {
+      "id": 19,
+      "address": "243, Shanti Heights",
+      "pincode": "560038",
+      "bhk": 3,
+      "area_sqft": 1453,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 14,
+      "amenities": [
+        "Power backup",
+        "Gated community",
+        "Near hospital",
+        "Corner plot",
+        "Parking available"
+      ],
+      "predicted_price": 12666000,
+      "price_low": 11872701,
+      "price_high": 13459299
+    },
+    {
+      "id": 20,
+      "address": "56, Silver Extension",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 1915,
+      "property_type": "Apartment",
+      "floor": 7,
+      "age_years": 8,
+      "amenities": [
+        "Near hospital",
+        "Gated community"
+      ],
+      "predicted_price": 15938000,
+      "price_low": 14656994,
+      "price_high": 17219006
+    },
+    {
+      "id": 21,
+      "address": "43, Ashoka Heights",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 2005,
+      "property_type": "Apartment",
+      "floor": 3,
+      "age_years": 9,
+      "amenities": [
+        "Parking available",
+        "Near school",
+        "Corner plot"
+      ],
+      "predicted_price": 15302000,
+      "price_low": 14377258,
+      "price_high": 16226742
+    },
+    {
+      "id": 22,
+      "address": "202, Model Gardens",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 505,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 6,
+      "amenities": [
+        "Gated community",
+        "Ready to move",
+        "24x7 water supply",
+        "Near park"
+      ],
+      "predicted_price": 4319000,
+      "price_low": 4045584,
+      "price_high": 4592416
+    },
+    {
+      "id": 23,
+      "address": "334, Sunrise Enclave",
+      "pincode": "560038",
+      "bhk": 2,
+      "area_sqft": 802,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 12,
+      "amenities": [
+        "Furnished",
+        "Power backup",
+        "Near metro/transit",
+        "Lift access",
+        "Gated community"
+      ],
+      "predicted_price": 6991000,
+      "price_low": 6420787,
+      "price_high": 7561213
+    },
+    {
+      "id": 24,
+      "address": "337, Model Township",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 2122,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 14,
+      "amenities": [
+        "Parking available",
+        "Near school",
+        "Ready to move",
+        "Near hospital",
+        "Lift access"
+      ],
+      "predicted_price": 17626000,
+      "price_low": 16409542,
+      "price_high": 18842458
+    },
+    {
+      "id": 25,
+      "address": "61, Model Extension",
+      "pincode": "560038",
+      "bhk": 2,
+      "area_sqft": 798,
+      "property_type": "Apartment",
+      "floor": 9,
+      "age_years": 2,
+      "amenities": [
+        "Corner plot",
+        "Power backup",
+        "Parking available",
+        "Furnished",
+        "Near metro/transit"
+      ],
+      "predicted_price": 7311000,
+      "price_low": 6721696,
+      "price_high": 7900304
+    },
+    {
+      "id": 26,
+      "address": "270, Vivek Enclave",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 590,
+      "property_type": "Apartment",
+      "floor": 5,
+      "age_years": 3,
+      "amenities": [
+        "Near school",
+        "Corner plot",
+        "24x7 water supply",
+        "Near hospital",
+        "Near metro/transit"
+      ],
+      "predicted_price": 5240000,
+      "price_low": 4795758,
+      "price_high": 5684242
+    },
+    {
+      "id": 27,
+      "address": "312, Sunrise Township",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 482,
+      "property_type": "Apartment",
+      "floor": 2,
+      "age_years": 13,
+      "amenities": [
+        "Near school",
+        "Furnished",
+        "Ready to move",
+        "Power backup"
+      ],
+      "predicted_price": 3496000,
+      "price_low": 3303714,
+      "price_high": 3688286
+    },
+    {
+      "id": 28,
+      "address": "164, Sunrise Residency",
+      "pincode": "560038",
+      "bhk": 3,
+      "area_sqft": 1349,
+      "property_type": "Apartment",
+      "floor": 3,
+      "age_years": 5,
+      "amenities": [
+        "Near hospital",
+        "Corner plot",
+        "Near park"
+      ],
+      "predicted_price": 10739000,
+      "price_low": 9944224,
+      "price_high": 11533776
+    },
+    {
+      "id": 29,
+      "address": "315, Model Nagar",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 1849,
+      "property_type": "Apartment",
+      "floor": 1,
+      "age_years": 5,
+      "amenities": [
+        "Furnished",
+        "Near metro/transit"
+      ],
+      "predicted_price": 15754000,
+      "price_low": 14525907,
+      "price_high": 16982093
+    },
+    {
+      "id": 30,
+      "address": "62, Model Gardens",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 2097,
+      "property_type": "Apartment",
+      "floor": 9,
+      "age_years": 7,
+      "amenities": [
+        "Parking available",
+        "Near school"
+      ],
+      "predicted_price": 16970000,
+      "price_low": 15524437,
+      "price_high": 18415563
+    },
+    {
+      "id": 31,
+      "address": "267, Rajendra Colony",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 599,
+      "property_type": "Apartment",
+      "floor": 4,
+      "age_years": 8,
+      "amenities": [
+        "Lift access",
+        "Furnished",
+        "Power backup"
+      ],
+      "predicted_price": 4650000,
+      "price_low": 4399506,
+      "price_high": 4900494
+    },
+    {
+      "id": 32,
+      "address": "238, Green Park Gardens",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 581,
+      "property_type": "Apartment",
+      "floor": 9,
+      "age_years": 3,
+      "amenities": [
+        "Corner plot",
+        "Near park"
+      ],
+      "predicted_price": 4893000,
+      "price_low": 4602938,
+      "price_high": 5183062
+    },
+    {
+      "id": 33,
+      "address": "28, Lake View Colony",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 1751,
+      "property_type": "Apartment",
+      "floor": 10,
+      "age_years": 9,
+      "amenities": [
+        "Near school",
+        "Parking available"
+      ],
+      "predicted_price": 13968000,
+      "price_low": 12757059,
+      "price_high": 15178941
+    },
+    {
+      "id": 34,
+      "address": "194, Rajendra Residency",
+      "pincode": "560038",
+      "bhk": 2,
+      "area_sqft": 791,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 12,
+      "amenities": [
+        "Furnished",
+        "24x7 water supply",
+        "Near park"
+      ],
+      "predicted_price": 6700000,
+      "price_low": 6177079,
+      "price_high": 7222921
+    },
+    {
+      "id": 35,
+      "address": "258, Sunrise Extension",
+      "pincode": "560038",
+      "bhk": 1,
+      "area_sqft": 589,
+      "property_type": "Apartment",
+      "floor": 11,
+      "age_years": 7,
+      "amenities": [
+        "Lift access",
+        "Furnished",
+        "Power backup",
+        "24x7 water supply",
+        "Near metro/transit"
+      ],
+      "predicted_price": 5183000,
+      "price_low": 4832964,
+      "price_high": 5533036
+    },
+    {
+      "id": 36,
+      "address": "122, Ashoka Vihar",
+      "pincode": "560038",
+      "bhk": 2,
+      "area_sqft": 1002,
+      "property_type": "Apartment",
+      "floor": 10,
+      "age_years": 8,
+      "amenities": [
+        "Power backup",
+        "Gated community"
+      ],
+      "predicted_price": 8488000,
+      "price_low": 7731554,
+      "price_high": 9244446
+    },
+    {
+      "id": 37,
+      "address": "352, Rajendra Heights",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 1654,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 10,
+      "amenities": [
+        "Parking available",
+        "Lift access",
+        "Near school",
+        "Near park",
+        "Gated community"
+      ],
+      "predicted_price": 13602000,
+      "price_low": 12481605,
+      "price_high": 14722395
+    },
+    {
+      "id": 38,
+      "address": "82, New Heights",
+      "pincode": "560038",
+      "bhk": 4,
+      "area_sqft": 2173,
+      "property_type": "Apartment",
+      "floor": 9,
+      "age_years": 14,
+      "amenities": [
+        "Parking available",
+        "Near school"
+      ],
+      "predicted_price": 16334000,
+      "price_low": 15109922,
+      "price_high": 17558078
+    },
+    {
+      "id": 39,
+      "address": "120, Shanti Township",
+      "pincode": "560038",
+      "bhk": 3,
+      "area_sqft": 1378,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 2,
+      "amenities": [
+        "Ready to move",
+        "Lift access",
+        "Parking available",
+        "Furnished"
+      ],
+      "predicted_price": 11673000,
+      "price_low": 10926845,
+      "price_high": 12419155
+    },
+    {
+      "id": 0,
+      "address": "32, Ashoka Enclave",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 773,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 2,
+      "amenities": [
+        "24x7 water supply",
+        "Power backup",
+        "Near hospital",
+        "Near school"
+      ],
+      "predicted_price": 7810000,
+      "price_low": 7252669,
+      "price_high": 8367331
+    },
+    {
+      "id": 1,
+      "address": "271, New Heights",
+      "pincode": "411001",
+      "bhk": 1,
+      "area_sqft": 468,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 7,
+      "amenities": [
+        "Near school",
+        "Near hospital",
+        "Corner plot"
+      ],
+      "predicted_price": 4519000,
+      "price_low": 4287160,
+      "price_high": 4750840
+    },
+    {
+      "id": 2,
+      "address": "199, Rajendra Sector",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 1926,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 7,
+      "amenities": [
+        "Near school",
+        "Ready to move",
+        "Near hospital",
+        "Parking available",
+        "Power backup"
+      ],
+      "predicted_price": 18598000,
+      "price_low": 17634861,
+      "price_high": 19561139
+    },
+    {
+      "id": 3,
+      "address": "90, Green Park Sector",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 823,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 1,
+      "amenities": [
+        "Near park",
+        "Ready to move",
+        "Parking available",
+        "24x7 water supply",
+        "Lift access"
+      ],
+      "predicted_price": 7653000,
+      "price_low": 7087138,
+      "price_high": 8218862
+    },
+    {
+      "id": 4,
+      "address": "99, Shanti Nagar",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 2149,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 6,
+      "amenities": [
+        "Lift access",
+        "Gated community",
+        "Near school",
+        "Corner plot",
+        "Parking available"
+      ],
+      "predicted_price": 19983000,
+      "price_low": 18850242,
+      "price_high": 21115758
+    },
+    {
+      "id": 5,
+      "address": "330, Silver Township",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 861,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 4,
+      "amenities": [
+        "Corner plot",
+        "Furnished",
+        "24x7 water supply",
+        "Parking available",
+        "Ready to move"
+      ],
+      "predicted_price": 8545000,
+      "price_low": 7823503,
+      "price_high": 9266497
+    },
+    {
+      "id": 6,
+      "address": "220, Sunrise Sector",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 1861,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 4,
+      "amenities": [
+        "Lift access",
+        "Near school",
+        "Power backup",
+        "24x7 water supply"
+      ],
+      "predicted_price": 16806000,
+      "price_low": 15507108,
+      "price_high": 18104892
+    },
+    {
+      "id": 7,
+      "address": "219, Shanti Residency",
+      "pincode": "411001",
+      "bhk": 3,
+      "area_sqft": 1491,
+      "property_type": "Apartment",
+      "floor": 9,
+      "age_years": 7,
+      "amenities": [
+        "Near school",
+        "Gated community",
+        "Corner plot",
+        "24x7 water supply"
+      ],
+      "predicted_price": 13784000,
+      "price_low": 12840465,
+      "price_high": 14727535
+    },
+    {
+      "id": 8,
+      "address": "161, Silver Colony",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 798,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 6,
+      "amenities": [
+        "Lift access",
+        "Parking available"
+      ],
+      "predicted_price": 7064000,
+      "price_low": 6598275,
+      "price_high": 7529725
+    },
+    {
+      "id": 9,
+      "address": "279, Sunrise Gardens",
+      "pincode": "411001",
+      "bhk": 1,
+      "area_sqft": 585,
+      "property_type": "Apartment",
+      "floor": 6,
+      "age_years": 9,
+      "amenities": [
+        "Gated community",
+        "Corner plot",
+        "Furnished",
+        "Ready to move"
+      ],
+      "predicted_price": 5210000,
+      "price_low": 4841017,
+      "price_high": 5578983
+    },
+    {
+      "id": 10,
+      "address": "351, Green Park Residency",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 898,
+      "property_type": "Apartment",
+      "floor": 6,
+      "age_years": 4,
+      "amenities": [
+        "Ready to move",
+        "Near school"
+      ],
+      "predicted_price": 7997000,
+      "price_low": 7468316,
+      "price_high": 8525684
+    },
+    {
+      "id": 11,
+      "address": "36, Sunrise Vihar",
+      "pincode": "411001",
+      "bhk": 3,
+      "area_sqft": 1393,
+      "property_type": "Apartment",
+      "floor": 7,
+      "age_years": 12,
+      "amenities": [
+        "Near school",
+        "Gated community"
+      ],
+      "predicted_price": 12106000,
+      "price_low": 11025614,
+      "price_high": 13186386
+    },
+    {
+      "id": 12,
+      "address": "197, Lake View Residency",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 2226,
+      "property_type": "Apartment",
+      "floor": 4,
+      "age_years": 1,
+      "amenities": [
+        "Ready to move",
+        "Furnished",
+        "Lift access"
+      ],
+      "predicted_price": 20181000,
+      "price_low": 18572735,
+      "price_high": 21789265
+    },
+    {
+      "id": 13,
+      "address": "11, Shanti Residency",
+      "pincode": "411001",
+      "bhk": 3,
+      "area_sqft": 1192,
+      "property_type": "Apartment",
+      "floor": 5,
+      "age_years": 3,
+      "amenities": [
+        "Power backup",
+        "Near school",
+        "24x7 water supply",
+        "Near hospital",
+        "Near metro/transit"
+      ],
+      "predicted_price": 11510000,
+      "price_low": 10863182,
+      "price_high": 12156818
+    },
+    {
+      "id": 14,
+      "address": "293, Sunrise Vihar",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 1840,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 6,
+      "amenities": [
+        "Ready to move",
+        "Gated community"
+      ],
+      "predicted_price": 18755000,
+      "price_low": 17478443,
+      "price_high": 20031557
+    },
+    {
+      "id": 15,
+      "address": "380, Vivek Township",
+      "pincode": "411001",
+      "bhk": 1,
+      "area_sqft": 576,
+      "property_type": "Apartment",
+      "floor": 4,
+      "age_years": 2,
+      "amenities": [
+        "Lift access",
+        "Parking available",
+        "Power backup"
+      ],
+      "predicted_price": 5171000,
+      "price_low": 4827892,
+      "price_high": 5514108
+    },
+    {
+      "id": 16,
+      "address": "386, Rajendra Nagar",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 1026,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 5,
+      "amenities": [
+        "Near park",
+        "Power backup",
+        "Near metro/transit",
+        "Parking available",
+        "Near hospital"
+      ],
+      "predicted_price": 9907000,
+      "price_low": 9353237,
+      "price_high": 10460763
+    },
+    {
+      "id": 17,
+      "address": "78, Ashoka Gardens",
+      "pincode": "411001",
+      "bhk": 3,
+      "area_sqft": 1502,
+      "property_type": "Apartment",
+      "floor": 12,
+      "age_years": 13,
+      "amenities": [
+        "Near school",
+        "24x7 water supply",
+        "Near hospital",
+        "Gated community"
+      ],
+      "predicted_price": 13161000,
+      "price_low": 12015859,
+      "price_high": 14306141
+    },
+    {
+      "id": 18,
+      "address": "69, Green Park Extension",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 1716,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 14,
+      "amenities": [
+        "Near school",
+        "Parking available",
+        "Furnished",
+        "Near hospital"
+      ],
+      "predicted_price": 15496000,
+      "price_low": 14689889,
+      "price_high": 16302111
+    },
+    {
+      "id": 19,
+      "address": "307, Ashoka Nagar",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 819,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 9,
+      "amenities": [
+        "Near metro/transit",
+        "24x7 water supply",
+        "Parking available"
+      ],
+      "predicted_price": 7616000,
+      "price_low": 7162059,
+      "price_high": 8069941
+    },
+    {
+      "id": 20,
+      "address": "208, Lake View Gardens",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 992,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 2,
+      "amenities": [
+        "Ready to move",
+        "Corner plot",
+        "24x7 water supply"
+      ],
+      "predicted_price": 9136000,
+      "price_low": 8484119,
+      "price_high": 9787881
+    },
+    {
+      "id": 21,
+      "address": "387, Ashoka Extension",
+      "pincode": "411001",
+      "bhk": 1,
+      "area_sqft": 554,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 4,
+      "amenities": [
+        "Near park",
+        "Power backup"
+      ],
+      "predicted_price": 5498000,
+      "price_low": 5069573,
+      "price_high": 5926427
+    },
+    {
+      "id": 22,
+      "address": "126, Ashoka Colony",
+      "pincode": "411001",
+      "bhk": 3,
+      "area_sqft": 1355,
+      "property_type": "Apartment",
+      "floor": 6,
+      "age_years": 7,
+      "amenities": [
+        "Near school",
+        "Power backup",
+        "Ready to move",
+        "24x7 water supply"
+      ],
+      "predicted_price": 11703000,
+      "price_low": 10780604,
+      "price_high": 12625396
+    },
+    {
+      "id": 23,
+      "address": "279, Green Park Extension",
+      "pincode": "411001",
+      "bhk": 1,
+      "area_sqft": 501,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 9,
+      "amenities": [
+        "Near school",
+        "Near hospital"
+      ],
+      "predicted_price": 4748000,
+      "price_low": 4456024,
+      "price_high": 5039976
+    },
+    {
+      "id": 24,
+      "address": "216, Silver Nagar",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 1698,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 14,
+      "amenities": [
+        "Near school",
+        "Lift access",
+        "Power backup",
+        "Corner plot",
+        "Near hospital"
+      ],
+      "predicted_price": 13815000,
+      "price_low": 12899611,
+      "price_high": 14730389
+    },
+    {
+      "id": 25,
+      "address": "307, Sunrise Colony",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 858,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 13,
+      "amenities": [
+        "Gated community",
+        "Furnished",
+        "Parking available",
+        "Near school",
+        "Power backup"
+      ],
+      "predicted_price": 7441000,
+      "price_low": 6817495,
+      "price_high": 8064505
+    },
+    {
+      "id": 26,
+      "address": "333, Vivek Township",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 1008,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 8,
+      "amenities": [
+        "Gated community",
+        "Lift access",
+        "Corner plot",
+        "Near school",
+        "Near park"
+      ],
+      "predicted_price": 10094000,
+      "price_low": 9562699,
+      "price_high": 10625301
+    },
+    {
+      "id": 27,
+      "address": "18, Lake View Enclave",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 2094,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 0,
+      "amenities": [
+        "Near school",
+        "Ready to move",
+        "Furnished",
+        "Power backup"
+      ],
+      "predicted_price": 21531000,
+      "price_low": 19829048,
+      "price_high": 23232952
+    },
+    {
+      "id": 28,
+      "address": "10, Green Park Township",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 1875,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 5,
+      "amenities": [
+        "Lift access",
+        "Parking available",
+        "Gated community"
+      ],
+      "predicted_price": 19279000,
+      "price_low": 17778294,
+      "price_high": 20779706
+    },
+    {
+      "id": 29,
+      "address": "83, Vivek Heights",
+      "pincode": "411001",
+      "bhk": 2,
+      "area_sqft": 1012,
+      "property_type": "Apartment",
+      "floor": 10,
+      "age_years": 10,
+      "amenities": [
+        "Gated community",
+        "Near park",
+        "Ready to move",
+        "Lift access",
+        "Furnished"
+      ],
+      "predicted_price": 9139000,
+      "price_low": 8408460,
+      "price_high": 9869540
+    },
+    {
+      "id": 30,
+      "address": "317, Shanti Extension",
+      "pincode": "411001",
+      "bhk": 1,
+      "area_sqft": 526,
+      "property_type": "Apartment",
+      "floor": 10,
+      "age_years": 5,
+      "amenities": [
+        "Gated community",
+        "Near metro/transit",
+        "Parking available",
+        "Furnished"
+      ],
+      "predicted_price": 5361000,
+      "price_low": 4901815,
+      "price_high": 5820185
+    },
+    {
+      "id": 31,
+      "address": "307, Model Vihar",
+      "pincode": "411001",
+      "bhk": 3,
+      "area_sqft": 1197,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 8,
+      "amenities": [
+        "Parking available",
+        "Near school",
+        "Near hospital"
+      ],
+      "predicted_price": 11452000,
+      "price_low": 10657211,
+      "price_high": 12246789
+    },
+    {
+      "id": 32,
+      "address": "39, Rajendra Vihar",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 2183,
+      "property_type": "Apartment",
+      "floor": 1,
+      "age_years": 12,
+      "amenities": [
+        "Near metro/transit",
+        "Gated community",
+        "Near school",
+        "Parking available",
+        "Furnished"
+      ],
+      "predicted_price": 19830000,
+      "price_low": 18251795,
+      "price_high": 21408205
+    },
+    {
+      "id": 33,
+      "address": "344, Shanti Vihar",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 2170,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 6,
+      "amenities": [
+        "Near school",
+        "Near park"
+      ],
+      "predicted_price": 19208000,
+      "price_low": 17536134,
+      "price_high": 20879866
+    },
+    {
+      "id": 34,
+      "address": "31, Model Heights",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 1950,
+      "property_type": "Apartment",
+      "floor": 12,
+      "age_years": 0,
+      "amenities": [
+        "Furnished",
+        "Gated community",
+        "Near school"
+      ],
+      "predicted_price": 19353000,
+      "price_low": 18108438,
+      "price_high": 20597562
+    },
+    {
+      "id": 35,
+      "address": "40, Green Park Gardens",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 1990,
+      "property_type": "Apartment",
+      "floor": 8,
+      "age_years": 12,
+      "amenities": [
+        "Furnished",
+        "Lift access"
+      ],
+      "predicted_price": 16512000,
+      "price_low": 15208668,
+      "price_high": 17815332
+    },
+    {
+      "id": 36,
+      "address": "132, Rajendra Colony",
+      "pincode": "411001",
+      "bhk": 3,
+      "area_sqft": 1421,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 0,
+      "amenities": [
+        "Near hospital",
+        "Furnished",
+        "Near park",
+        "Near school",
+        "Parking available"
+      ],
+      "predicted_price": 13340000,
+      "price_low": 12566335,
+      "price_high": 14113665
+    },
+    {
+      "id": 37,
+      "address": "233, Ashoka Sector",
+      "pincode": "411001",
+      "bhk": 1,
+      "area_sqft": 485,
+      "property_type": "Apartment",
+      "floor": 11,
+      "age_years": 7,
+      "amenities": [
+        "Gated community",
+        "Near school",
+        "24x7 water supply"
+      ],
+      "predicted_price": 4510000,
+      "price_low": 4201680,
+      "price_high": 4818320
+    },
+    {
+      "id": 38,
+      "address": "391, Model Sector",
+      "pincode": "411001",
+      "bhk": 4,
+      "area_sqft": 2055,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 12,
+      "amenities": [
+        "Near hospital",
+        "Near school"
+      ],
+      "predicted_price": 18925000,
+      "price_low": 17846979,
+      "price_high": 20003021
+    },
+    {
+      "id": 39,
+      "address": "99, Silver Enclave",
+      "pincode": "411001",
+      "bhk": 3,
+      "area_sqft": 1139,
+      "property_type": "Apartment",
+      "floor": 12,
+      "age_years": 8,
+      "amenities": [
+        "Furnished",
+        "Near park"
+      ],
+      "predicted_price": 9980000,
+      "price_low": 9287081,
+      "price_high": 10672919
+    },
+    {
+      "id": 0,
+      "address": "219, Ashoka Sector",
+      "pincode": "560102",
+      "bhk": 1,
+      "area_sqft": 580,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 4,
+      "amenities": [
+        "Lift access",
+        "Furnished",
+        "Parking available",
+        "Near school"
+      ],
+      "predicted_price": 3455000,
+      "price_low": 3190921,
+      "price_high": 3719079
+    },
+    {
+      "id": 1,
+      "address": "191, Lake View Heights",
+      "pincode": "560102",
+      "bhk": 3,
+      "area_sqft": 1468,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 2,
+      "amenities": [
+        "Near park",
+        "Furnished"
+      ],
+      "predicted_price": 8115000,
+      "price_low": 7612350,
+      "price_high": 8617650
+    },
+    {
+      "id": 2,
+      "address": "136, Vivek Vihar",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 1847,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 14,
+      "amenities": [
+        "Near school",
+        "Near hospital",
+        "Power backup"
+      ],
+      "predicted_price": 10012000,
+      "price_low": 9314343,
+      "price_high": 10709657
+    },
+    {
+      "id": 3,
+      "address": "121, Model Enclave",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 2119,
+      "property_type": "Apartment",
+      "floor": 8,
+      "age_years": 1,
+      "amenities": [
+        "Ready to move",
+        "Near metro/transit",
+        "Lift access",
+        "Parking available",
+        "Near park"
+      ],
+      "predicted_price": 12715000,
+      "price_low": 11887771,
+      "price_high": 13542229
+    },
+    {
+      "id": 4,
+      "address": "130, Silver Colony",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 982,
+      "property_type": "Apartment",
+      "floor": 9,
+      "age_years": 12,
+      "amenities": [
+        "Near park",
+        "Parking available",
+        "Furnished",
+        "Corner plot",
+        "Power backup"
+      ],
+      "predicted_price": 4923000,
+      "price_low": 4538849,
+      "price_high": 5307151
+    },
+    {
+      "id": 5,
+      "address": "334, Ashoka Residency",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 771,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 6,
+      "amenities": [
+        "Gated community",
+        "Corner plot",
+        "Near park",
+        "Near metro/transit",
+        "Near hospital"
+      ],
+      "predicted_price": 4635000,
+      "price_low": 4299183,
+      "price_high": 4970817
+    },
+    {
+      "id": 6,
+      "address": "252, Lake View Residency",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 860,
+      "property_type": "Apartment",
+      "floor": 10,
+      "age_years": 4,
+      "amenities": [
+        "Furnished",
+        "Gated community"
+      ],
+      "predicted_price": 4939000,
+      "price_low": 4682514,
+      "price_high": 5195486
+    },
+    {
+      "id": 7,
+      "address": "169, Vivek Township",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 2218,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 13,
+      "amenities": [
+        "Gated community",
+        "Furnished",
+        "Parking available",
+        "Ready to move",
+        "Near park"
+      ],
+      "predicted_price": 11547000,
+      "price_low": 10652161,
+      "price_high": 12441839
+    },
+    {
+      "id": 8,
+      "address": "61, Shanti Vihar",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 904,
+      "property_type": "Apartment",
+      "floor": 9,
+      "age_years": 13,
+      "amenities": [
+        "Gated community",
+        "Near school"
+      ],
+      "predicted_price": 4726000,
+      "price_low": 4472776,
+      "price_high": 4979224
+    },
+    {
+      "id": 9,
+      "address": "65, New Residency",
+      "pincode": "560102",
+      "bhk": 3,
+      "area_sqft": 1367,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 14,
+      "amenities": [
+        "Near school",
+        "Parking available"
+      ],
+      "predicted_price": 6676000,
+      "price_low": 6272964,
+      "price_high": 7079036
+    },
+    {
+      "id": 10,
+      "address": "227, Shanti Residency",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 1927,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 9,
+      "amenities": [
+        "Gated community",
+        "Near school",
+        "Near hospital",
+        "Ready to move"
+      ],
+      "predicted_price": 11480000,
+      "price_low": 10791974,
+      "price_high": 12168026
+    },
+    {
+      "id": 11,
+      "address": "303, Ashoka Residency",
+      "pincode": "560102",
+      "bhk": 1,
+      "area_sqft": 528,
+      "property_type": "Apartment",
+      "floor": 8,
+      "age_years": 10,
+      "amenities": [
+        "Near school",
+        "Near hospital",
+        "Near park"
+      ],
+      "predicted_price": 2686000,
+      "price_low": 2513989,
+      "price_high": 2858011
+    },
+    {
+      "id": 12,
+      "address": "387, New Sector",
+      "pincode": "560102",
+      "bhk": 3,
+      "area_sqft": 1316,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 14,
+      "amenities": [
+        "Power backup",
+        "Corner plot",
+        "Ready to move",
+        "24x7 water supply"
+      ],
+      "predicted_price": 7134000,
+      "price_low": 6514984,
+      "price_high": 7753016
+    },
+    {
+      "id": 13,
+      "address": "262, Model Residency",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 782,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 7,
+      "amenities": [
+        "Ready to move",
+        "Near park",
+        "Near metro/transit",
+        "Parking available",
+        "Lift access"
+      ],
+      "predicted_price": 4869000,
+      "price_low": 4604500,
+      "price_high": 5133500
+    },
+    {
+      "id": 14,
+      "address": "370, Green Park Colony",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 2083,
+      "property_type": "Apartment",
+      "floor": 3,
+      "age_years": 3,
+      "amenities": [
+        "Near hospital",
+        "Near park",
+        "Lift access",
+        "24x7 water supply"
+      ],
+      "predicted_price": 11045000,
+      "price_low": 10359981,
+      "price_high": 11730019
+    },
+    {
+      "id": 15,
+      "address": "133, Sunrise Vihar",
+      "pincode": "560102",
+      "bhk": 1,
+      "area_sqft": 624,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 11,
+      "amenities": [
+        "Near park",
+        "Power backup",
+        "Corner plot",
+        "Furnished",
+        "Near metro/transit"
+      ],
+      "predicted_price": 3751000,
+      "price_low": 3514687,
+      "price_high": 3987313
+    },
+    {
+      "id": 16,
+      "address": "223, Rajendra Enclave",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 834,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 3,
+      "amenities": [
+        "Power backup",
+        "Near park"
+      ],
+      "predicted_price": 4566000,
+      "price_low": 4322482,
+      "price_high": 4809518
+    },
+    {
+      "id": 17,
+      "address": "283, Green Park Colony",
+      "pincode": "560102",
+      "bhk": 1,
+      "area_sqft": 532,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 7,
+      "amenities": [
+        "24x7 water supply",
+        "Furnished"
+      ],
+      "predicted_price": 2798000,
+      "price_low": 2561022,
+      "price_high": 3034978
+    },
+    {
+      "id": 18,
+      "address": "316, Shanti Colony",
+      "pincode": "560102",
+      "bhk": 3,
+      "area_sqft": 1341,
+      "property_type": "Apartment",
+      "floor": 3,
+      "age_years": 9,
+      "amenities": [
+        "Corner plot",
+        "Near school"
+      ],
+      "predicted_price": 6679000,
+      "price_low": 6154227,
+      "price_high": 7203773
+    },
+    {
+      "id": 19,
+      "address": "49, Model Colony",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 2077,
+      "property_type": "Apartment",
+      "floor": 6,
+      "age_years": 11,
+      "amenities": [
+        "Ready to move",
+        "Near school",
+        "Power backup",
+        "Near park"
+      ],
+      "predicted_price": 10322000,
+      "price_low": 9467623,
+      "price_high": 11176377
+    },
+    {
+      "id": 20,
+      "address": "184, Vivek Gardens",
+      "pincode": "560102",
+      "bhk": 1,
+      "area_sqft": 622,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 0,
+      "amenities": [
+        "Parking available",
+        "Near school",
+        "Furnished",
+        "Ready to move"
+      ],
+      "predicted_price": 3839000,
+      "price_low": 3609739,
+      "price_high": 4068261
+    },
+    {
+      "id": 21,
+      "address": "211, New Colony",
+      "pincode": "560102",
+      "bhk": 3,
+      "area_sqft": 1101,
+      "property_type": "Apartment",
+      "floor": 10,
+      "age_years": 1,
+      "amenities": [
+        "Corner plot",
+        "Furnished",
+        "Near metro/transit"
+      ],
+      "predicted_price": 6677000,
+      "price_low": 6233393,
+      "price_high": 7120607
+    },
+    {
+      "id": 22,
+      "address": "49, Shanti Nagar",
+      "pincode": "560102",
+      "bhk": 3,
+      "area_sqft": 1198,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 7,
+      "amenities": [
+        "Corner plot",
+        "Furnished",
+        "Near hospital"
+      ],
+      "predicted_price": 6301000,
+      "price_low": 5853602,
+      "price_high": 6748398
+    },
+    {
+      "id": 23,
+      "address": "216, Silver Heights",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 949,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 3,
+      "amenities": [
+        "Furnished",
+        "Gated community",
+        "Power backup",
+        "Near school",
+        "Lift access"
+      ],
+      "predicted_price": 5959000,
+      "price_low": 5444911,
+      "price_high": 6473089
+    },
+    {
+      "id": 24,
+      "address": "191, Model Colony",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 2189,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 11,
+      "amenities": [
+        "Ready to move",
+        "Near metro/transit",
+        "Near park",
+        "Corner plot"
+      ],
+      "predicted_price": 11983000,
+      "price_low": 11376099,
+      "price_high": 12589901
+    },
+    {
+      "id": 25,
+      "address": "52, Shanti Residency",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 923,
+      "property_type": "Apartment",
+      "floor": 12,
+      "age_years": 7,
+      "amenities": [
+        "Ready to move",
+        "Gated community",
+        "Furnished",
+        "24x7 water supply",
+        "Lift access"
+      ],
+      "predicted_price": 5152000,
+      "price_low": 4707769,
+      "price_high": 5596231
+    },
+    {
+      "id": 26,
+      "address": "338, New Colony",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 1647,
+      "property_type": "Apartment",
+      "floor": 5,
+      "age_years": 12,
+      "amenities": [
+        "Furnished",
+        "Corner plot",
+        "Near hospital",
+        "Parking available"
+      ],
+      "predicted_price": 8044000,
+      "price_low": 7509500,
+      "price_high": 8578500
+    },
+    {
+      "id": 27,
+      "address": "160, Green Park Township",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 793,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 5,
+      "amenities": [
+        "Parking available",
+        "Power backup",
+        "24x7 water supply",
+        "Furnished",
+        "Corner plot"
+      ],
+      "predicted_price": 4682000,
+      "price_low": 4400342,
+      "price_high": 4963658
+    },
+    {
+      "id": 28,
+      "address": "123, Model Sector",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 808,
+      "property_type": "Apartment",
+      "floor": 8,
+      "age_years": 11,
+      "amenities": [
+        "Lift access",
+        "Ready to move"
+      ],
+      "predicted_price": 4068000,
+      "price_low": 3714156,
+      "price_high": 4421844
+    },
+    {
+      "id": 29,
+      "address": "345, Silver Nagar",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 1701,
+      "property_type": "Apartment",
+      "floor": 9,
+      "age_years": 11,
+      "amenities": [
+        "Power backup",
+        "Near school",
+        "Furnished"
+      ],
+      "predicted_price": 8618000,
+      "price_low": 7946999,
+      "price_high": 9289001
+    },
+    {
+      "id": 30,
+      "address": "249, Green Park Sector",
+      "pincode": "560102",
+      "bhk": 3,
+      "area_sqft": 1519,
+      "property_type": "Apartment",
+      "floor": 3,
+      "age_years": 8,
+      "amenities": [
+        "Gated community",
+        "Power backup",
+        "Near park",
+        "24x7 water supply"
+      ],
+      "predicted_price": 8055000,
+      "price_low": 7553957,
+      "price_high": 8556043
+    },
+    {
+      "id": 31,
+      "address": "67, Sunrise Residency",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 1824,
+      "property_type": "Apartment",
+      "floor": 9,
+      "age_years": 4,
+      "amenities": [
+        "Gated community",
+        "Lift access",
+        "Power backup"
+      ],
+      "predicted_price": 10416000,
+      "price_low": 9622138,
+      "price_high": 11209862
+    },
+    {
+      "id": 32,
+      "address": "49, Shanti Sector",
+      "pincode": "560102",
+      "bhk": 1,
+      "area_sqft": 573,
+      "property_type": "Independent House",
+      "floor": 0,
+      "age_years": 12,
+      "amenities": [
+        "24x7 water supply",
+        "Parking available",
+        "Near school",
+        "Near park"
+      ],
+      "predicted_price": 2860000,
+      "price_low": 2636218,
+      "price_high": 3083782
+    },
+    {
+      "id": 33,
+      "address": "28, Shanti Colony",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 768,
+      "property_type": "Apartment",
+      "floor": 3,
+      "age_years": 6,
+      "amenities": [
+        "Near park",
+        "Parking available",
+        "Near metro/transit"
+      ],
+      "predicted_price": 4278000,
+      "price_low": 3948953,
+      "price_high": 4607047
+    },
+    {
+      "id": 34,
+      "address": "329, Ashoka Sector",
+      "pincode": "560102",
+      "bhk": 1,
+      "area_sqft": 597,
+      "property_type": "Apartment",
+      "floor": 12,
+      "age_years": 1,
+      "amenities": [
+        "Power backup",
+        "Corner plot",
+        "Near school"
+      ],
+      "predicted_price": 3364000,
+      "price_low": 3091202,
+      "price_high": 3636798
+    },
+    {
+      "id": 35,
+      "address": "124, Vivek Gardens",
+      "pincode": "560102",
+      "bhk": 4,
+      "area_sqft": 2093,
+      "property_type": "Apartment",
+      "floor": 10,
+      "age_years": 6,
+      "amenities": [
+        "Near metro/transit",
+        "Parking available",
+        "Near school",
+        "Furnished",
+        "24x7 water supply"
+      ],
+      "predicted_price": 12132000,
+      "price_low": 11486739,
+      "price_high": 12777261
+    },
+    {
+      "id": 36,
+      "address": "167, Silver Residency",
+      "pincode": "560102",
+      "bhk": 1,
+      "area_sqft": 451,
+      "property_type": "Apartment",
+      "floor": 4,
+      "age_years": 12,
+      "amenities": [
+        "Parking available",
+        "Near park",
+        "Gated community",
+        "Near hospital"
+      ],
+      "predicted_price": 2309000,
+      "price_low": 2168113,
+      "price_high": 2449887
+    },
+    {
+      "id": 37,
+      "address": "21, Silver Extension",
+      "pincode": "560102",
+      "bhk": 2,
+      "area_sqft": 816,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 0,
+      "amenities": [
+        "Near park",
+        "Furnished",
+        "Parking available",
+        "Lift access"
+      ],
+      "predicted_price": 5036000,
+      "price_low": 4723268,
+      "price_high": 5348732
+    },
+    {
+      "id": 38,
+      "address": "363, Model Township",
+      "pincode": "560102",
+      "bhk": 1,
+      "area_sqft": 580,
+      "property_type": "Apartment",
+      "floor": 10,
+      "age_years": 3,
+      "amenities": [
+        "Lift access",
+        "Near park"
+      ],
+      "predicted_price": 3206000,
+      "price_low": 2955830,
+      "price_high": 3456170
+    },
+    {
+      "id": 39,
+      "address": "290, Model Township",
+      "pincode": "560102",
+      "bhk": 1,
+      "area_sqft": 468,
+      "property_type": "Villa",
+      "floor": 0,
+      "age_years": 1,
+      "amenities": [
+        "Ready to move",
+        "24x7 water supply",
+        "Furnished",
+        "Near metro/transit"
+      ],
+      "predicted_price": 3064000,
+      "price_low": 2898739,
+      "price_high": 3229261
+    }
+  ]
+}
